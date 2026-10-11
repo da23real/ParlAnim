@@ -1,0 +1,8 @@
+Build/
+Android/
+*.keystore
+*.jks
+.env
+__pycache__/
+*.pyc
+Server/data/

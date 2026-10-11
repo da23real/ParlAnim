@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="fr.roy.parlanime">
+ <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+ <uses-permission android:name="android.permission.INTERNET"/>
+ <application android:label="Parl’Anime" android:theme="@android:style/Theme.Material.NoActionBar" android:allowBackup="false" android:largeHeap="true" android:icon="@drawable/icon">
+  <activity android:name=".MainActivity" android:exported="true" android:configChanges="orientation|screenSize" android:windowSoftInputMode="adjustResize"><intent-filter><action android:name="android.intent.action.MAIN"/><category android:name="android.intent.category.LAUNCHER"/></intent-filter></activity>
+  <provider android:name=".ShareProvider" android:authorities="fr.roy.parlanime.files" android:exported="false" android:grantUriPermissions="true"/>
+ </application>
+</manifest>
+
+
