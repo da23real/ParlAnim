@@ -12,7 +12,7 @@ Android 8.0 ou plus récent. Ouvre l’APK sur ton téléphone et autorise son i
 
 Choisis un personnage, puis enregistre un discours ou importe un audio. Il réagit en quatre états : **attente, chuchote, normal et cris**. Tu peux ajouter un fond et une musique ; « Animateur radio » baisse la musique pendant ta voix.
 
-- **16 personnages** intégrés, dont les animaux imaginaires et le Kawaii synthé en version détaillée. Tu peux aussi importer une planche PNG de personnage (9 colonnes × 4 rangées).
+- **16 personnages** intégrés, dont les animaux imaginaires. Tu peux aussi importer une planche PNG de personnage (9 colonnes × 4 rangées).
 - **5 décors**, une image personnelle ou une couleur de fond.
 - **MOV transparent**, **MP4 avec fond**, partage MP4 et **MIDI + audio WAV pour Snkoz**, réunis dans un ZIP.
 - Réglages avancés en direct : seuils, lissage, gate micro et puissance de la baisse musicale.
